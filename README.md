@@ -1,7 +1,7 @@
 # LP-iOS-1
 
-#Instructions
+## Instructions
 
-*Clone
-*Compile
-*Find issue in the project
+* Clone
+* Compile
+* Find issue in the project
